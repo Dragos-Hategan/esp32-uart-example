@@ -24,7 +24,7 @@ Received messages are printed to the console using `ESP_LOGI()`.
 ![breadboard wiring](docs/breadboard.jpg)
 
 ### Example console output
-![console output](docs/console.png)
+![consoles](docs/console.png)
 
 ## Pinout used for this example
 - Board 1:

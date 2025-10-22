@@ -1,8 +1,0 @@
-{
-    "idf.portWin": "COM16",
-    "files.associations": {
-        "esp_random.h": "c",
-        "bootloader_random.h": "c"
-    },
-    "idf.flashType": "UART"
-}
